@@ -1,0 +1,306 @@
+This is Pre-processor directive: #include <stdio.h>
+
+This is Keyword: int
+
+this is an operator:  
+
+This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Keyword: int
+
+this is an operator:  
+
+This is Identifier: i
+
+this is an operator:  
+
+This is Assignment Operator: =
+
+this is an operator:  
+
+This is Integer: 8
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Keyword: int
+
+this is an operator:  
+
+This is Identifier: j
+
+this is an operator:  
+
+This is Assignment Operator: =
+
+this is an operator:  
+
+This is Integer: 9
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Keyword: int
+
+this is an operator:  
+
+This is Identifier: z
+
+this is an operator:  
+
+This is Assignment Operator: =
+
+this is an operator:  
+
+This is Integer: 0
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Function: if(
+
+This is Identifier: i
+
+this is an operator:  
+
+This is Relational Operator: <=
+
+this is an operator:  
+
+This is Identifier: j
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Function: print(
+
+This is Identifier: i
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Keyword: else
+
+This is Delimiter: {
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Function: print(
+
+This is Identifier: j
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Delimiter: }
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Delimiter: }
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Keyword: while
+
+this is an operator:  
+
+This is Delimiter: (
+
+This is Identifier: z
+
+this is an operator:  
+
+This is Relational Operator: <=
+
+this is an operator:  
+
+This is Integer: 10
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Function: printf(
+
+This is Identifier: z
+
+This is Delimiter: )
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Identifier: z
+
+This is Relational Operator: ++
+
+This is Delimiter: ;
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+this is an operator:  
+
+This is Delimiter: }
+
+This is Delimiter: }
+
+
+
+
+
+
+ Total Tokens = 53
